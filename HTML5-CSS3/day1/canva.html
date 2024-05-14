@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Canvas</title>
+</head>
+
+<body>
+     <canvas id="myCanvas" width="300px" height="300px" style="border: 1px solid black;">
+
+     </canvas>
+     <script>
+          let draw = document.getElementById("myCanvas")
+          let ctx = draw.getContext("2d");
+
+          // Vẽ đầu mèo
+          ctx.beginPath();
+          ctx.arc(100, 100, 50, 0, 2 * Math.PI);
+          ctx.fillStyle = "#FFCC99";
+          ctx.fill();
+
+          // Vẽ mắt
+          ctx.beginPath();
+          ctx.arc(80, 90, 10, 0, 2 * Math.PI);
+          ctx.fillStyle = "#000000";
+          ctx.fill();
+
+          ctx.beginPath();
+          ctx.arc(120, 90, 10, 0, 2 * Math.PI);
+          ctx.fillStyle = "#000000";
+          ctx.fill();
+
+          // Vẽ mũi
+          ctx.beginPath();
+          ctx.moveTo(100, 120);
+          ctx.lineTo(90, 130);
+          ctx.lineTo(110, 130);
+          ctx.closePath();
+          ctx.fillStyle = "#FF6666";
+          ctx.fill();
+
+          // Vẽ miệng
+          ctx.beginPath();
+          ctx.moveTo(80, 130);
+          ctx.quadraticCurveTo(100, 140, 120, 130);
+          ctx.strokeStyle = "#000000";
+          ctx.stroke();  
+     </script>
+</body>
+
+</html>

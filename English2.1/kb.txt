@@ -1,0 +1,115 @@
+Mạnh: Nhân viên phục vụ
+Hoài: Khách hàng mới
+Chế: Khách hàng thường xuyên
+Long: Khách hàng thường xuyên
+Tvu: Khách hàng mới
+VVu: Khách hàng mới
+
+Mạnh: Server
+Hoài: New customer
+Chế: Regular customer
+Long: Regular customer
+Tvu: New customer
+VVu: New customer
+
+
+Tại quầy: ( Văn vũ quay )
+Mạnh: Chào mừng đến với quán cafe của chúng tôi. Bạn muốn gọi gì hôm nay?
+
+Hoài: Xin chào! Tôi muốn một cốc cà phê đen, vui lòng.
+
+Mạnh: Dĩ nhiên, chúng tôi có nhiều loại cà phê đen khác nhau. Bạn muốn loại nào nhẹ nhàng không?
+
+Hoài: Tôi sợ cà phê quá đắng, bạn có thể giới thiệu một loại nhẹ nhàng hơn không?
+
+Mạnh: Dĩ nhiên, chúng tôi có cà phê Arabica với hương vị nhẹ nhàng và thơm ngon.
+
+Hoài: Xin lỗi, tôi quên hỏi. Có thể cho tôi biết giá không?
+
+Mạnh: Tất nhiên, giá cho một cốc cà phê Arabica là 50,000 đồng.
+
+Hoài: Được, tôi sẽ chọn loại đó.
+
+
+Tìm chỗ và làm quen: ( Hoài quay )
+Mạnh: Xin lỗi, chỗ này có ai ngồi không?
+
+Chế: Không, nó trống. Bạn có thể ngồi ở đây.
+
+Long: Xin chào, tôi là Long. Bạn đến từ đâu?
+
+Tvu: Xin chào, tôi đến từ thành phố gần đây. Còn bạn?
+
+Long: Tôi đến từ một thành phố lớn. Bạn đã từng đến đó chưa?
+
+Tvu: Không, nhưng tôi muốn khám phá.
+
+VVu: Xin lỗi, tôi có thể ngồi cùng bạn được không?
+
+Long: Dĩ nhiên, còn nhiều chỗ trống. Ngồi đi.
+
+
+Kết thúc: ( chân quay ? )
+Mạnh: Đây là cà phê của bạn, hãy thưởng thức nhé.
+
+Hoài: Cảm ơn bạn rất nhiều.
+
+Long: Chúng ta có thể gặp lại nhau ở đây vào lần sau.
+
+Chế: Tất nhiên, tôi rất vui được gặp lại mọi người.
+
+Tvu: Tôi đã có một buổi tối tuyệt vời, cảm ơn mọi người.
+
+VVu: Cảm ơn mọi người. Hy vọng chúng ta sẽ gặp lại nhau.
+
+Kết thúc cuộc trò chuyện và khách hàng rời đi.
+
+
+
+At the counter:
+Mạnh: Welcome to our café. What can I get for you today?
+
+Hoài: Hi there! I'd like a black coffee, please.
+
+Mạnh: Certainly, we have various types of black coffee. Would you like something mild?
+
+Hoài: I'm afraid of overly bitter coffee, could you recommend something milder?
+
+Mạnh: Of course, we have Arabica coffee with a mild and aromatic flavor.
+Hoài: Sorry, I forgot to ask. Could you please tell me the price?
+
+Mạnh: Sure, the price for a cup of Arabica coffee is 50,000 dong.
+
+Hoài: Okay, I'll go with that one.
+
+
+Finding a seat and getting acquainted:
+Mạnh: Sorry, is this seat taken?
+
+Chế: No, it's free. Feel free to sit here.
+
+Long: Hi, I'm Long. Where are you from?
+
+Tvu: Hi, I'm from the nearby city. How about you?
+
+Long: I'm from a big city. Have you ever been there?
+
+Tvu: No, but I'd like to explore.
+
+VVu: Excuse me, can I join you guys?
+
+Long: Sure, there's plenty of space. Sit down.
+
+Conclusion:
+Mạnh: Here's your coffee, enjoy.
+
+Hoài: Thank you very much.
+
+Long: We can meet here again next time.
+
+Chế: Of course, I'd be happy to see you all again.
+
+Tvu: I had a great evening, thanks everyone.
+
+VVu: Thanks, everyone. I hope we'll meet again.
+End of conversation and customers leave.
